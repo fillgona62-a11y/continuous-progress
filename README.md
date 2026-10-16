@@ -19,8 +19,7 @@ README.md           本文件
 
 ## 部署到 GitHub Pages
 
-1. 在 GitHub 新建仓库，推荐命名为 `你的用户名.github.io`
-   （这样网址是 `https://你的用户名.github.io`）
+1. 在 GitHub 新建仓库
 2. 把本目录下所有文件复制到仓库根目录并推送：
 
 ```bash
